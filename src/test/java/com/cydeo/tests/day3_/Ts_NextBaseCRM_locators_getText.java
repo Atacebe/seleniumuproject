@@ -45,7 +45,7 @@ public class Ts_NextBaseCRM_locators_getText {
         }else {
             System.out.println("Error message verification FAİLED!!");
         }
-        driver.close();
+        //driver.close();
 
         //PS: Inspect and decide which locator you should be using to locate webelements.
     }
